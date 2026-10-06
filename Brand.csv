@@ -1,0 +1,11 @@
+Brand_ID,Brand,Car_Image_URL,Logo_Image_URL
+1,Audi,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car/Audi.png,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car_Logo/Audi.png
+2,BMW,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car/BMW.png,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car_Logo/BMW.png
+3,Ford,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car/Ford.png,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car_Logo/Ford.png
+4,Honda,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car/Honda.png,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car_Logo/Honda.png
+5,Hyundai,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car/Hyundai.png,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car_Logo/Hyundai.png
+6,Kia,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car/Kia.png,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car_Logo/Kia.png
+7,Mahindra,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car/Mahindra.png,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car_Logo/Mahindra.png
+8,Mercedes-Benz,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car/Mercedes-Benz.png,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car_Logo/Mercedes-Benz.png
+9,Tata,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car/Tata.png,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car_Logo/Tata.png
+10,Toyota,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car/Toyota.png,https://raw.githubusercontent.com/Mehesh555/Car_Sales_Dashboard/main/Image/Car_Logo/Toyota.png
