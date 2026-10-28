@@ -8,7 +8,7 @@ The project focuses on **sales, revenue, pricing, customer ratings, vehicle char
 
 ---
 ## Dashboard
-[![Car Sales Analytics Dashboard](Image/dashboard.png)]
+![Car Sales Analytics Dashboard](Image/dashboard.png)
 ---
 ## 🎯 Objectives
 
