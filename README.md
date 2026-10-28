@@ -7,8 +7,8 @@ An end-to-end **Car Sales Analytics** project using **MySQL, SQL, Power BI, DAX,
 The project focuses on **sales, revenue, pricing, customer ratings, vehicle characteristics, brands, models, regions, and dealer performance**.
 
 ---
-## Dashboard Demo
-[▶️ Watch Car Sales Dashboard Demo](https://github.com/Mehesh555/Car_Sales_Dashboard/blob/main/Demo.mp4)
+## Dashboard
+[![Car Sales Analytics Dashboard](Image/dashboard.png)]
 ---
 ## 🎯 Objectives
 
