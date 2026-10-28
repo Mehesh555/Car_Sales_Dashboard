@@ -8,7 +8,7 @@ The project focuses on **sales, revenue, pricing, customer ratings, vehicle char
 
 ---
 ## Dashboard
-![Dashboard](Image/Dashboard.png)
+![Dashboard](Demo.mp4)
 ---
 ## 🎯 Objectives
 
