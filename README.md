@@ -8,8 +8,7 @@ The project focuses on **sales, revenue, pricing, customer ratings, vehicle char
 
 ---
 ## Dashboard Demo
-<video src="Demo.mp4" controls width="100%">
-</video>
+[▶️ Watch Car Sales Dashboard Demo](https://github.com/Mehesh555/Car_Sales_Dashboard/blob/main/Demo.mp4)
 ---
 ## 🎯 Objectives
 
